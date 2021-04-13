@@ -1,5 +1,5 @@
 # insideman
-uptimerobot.com InsideMAN
+uptimerobot.com InsideMAN {Running as an Service}
 
 Allows you to use UptimeRobot inside you firewall.
 
