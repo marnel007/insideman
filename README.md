@@ -19,6 +19,7 @@ PORT (The port to check for {TYPE 2})
 CHECKSEC (How man sec to check this)
 EXEAPP (The EXE to Check {C:\test\test.exe})
 
+
 *** One host can check 4 Diff Types ***
 
 	"BASEURL": "https://uptime.",
